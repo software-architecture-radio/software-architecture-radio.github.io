@@ -1,0 +1,16 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "About on Software Architecture Radio",
+    "description": "Recent content in About on Software Architecture Radio",
+    "home_page_url" : "https://softwarearchitecturerad.io/",
+    "feed_url" : "https://softwarearchitecturerad.io/about/index.json",
+    "icon" : "https://softwarearchitecturerad.io/apple-touch-icon.png",
+    "favicon" : "https://softwarearchitecturerad.io/apple-touch-icon.png",
+    "author" : {
+        "name" : "Matt Stine",
+        "url": "https://mattstine.com",
+        "avatar": "https://softwarearchitecturerad.io/images/matt.jpg"
+    },
+    "items" : [
+    ]
+}

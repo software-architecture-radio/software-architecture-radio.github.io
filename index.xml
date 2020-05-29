@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Architecture Radio</title>
+    <link>https://softwarearchitecturerad.io/</link>
+    <description>Recent content on Software Architecture Radio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 May 2020 17:12:13 -0500</lastBuildDate>
+    <atom:link href="https://softwarearchitecturerad.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 7 - WebAssembly with Brian Sletten</title>
+      <link>https://softwarearchitecturerad.io/2019/03/27/episode-7-webassembly-with-brian-sletten/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2019/03/27/episode-7-webassembly-with-brian-sletten/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/596790582&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-007-webassembly-with-brian-sletten&#34; title=&#34;Episode @007: WebAssembly with Brian Sletten&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode @007: WebAssembly with Brian Sletten&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Brian Sletten: &lt;a href=&#34;https://twitter.com/bsletten&#34;&gt;@bsletten&lt;/a&gt; | &lt;a href=&#34;https://about.me/bsletten&#34;&gt;about.me/bsletten&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;00:30 - Brian Sletten Introduction&lt;br&gt;
+02:01 - What is &lt;a href=&#34;https://webassembly.org/&#34;&gt;WebAssembly&lt;/a&gt;?&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://caniuse.com/#search=webassembly&#34;&gt;caniuse.com: Search=webassembly&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Native_Client&#34;&gt;Google Native Client (NaCl)&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://developer.chrome.com/native-client/nacl-and-pnacl&#34;&gt;NaCl and PNaCl&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;http://asmjs.org/&#34;&gt;asm.js&lt;/a&gt;&lt;br&gt;
+11:58 - The Popularity and Attraction of WebAssembly&lt;br&gt;
+21:44 - Will WebAssembly kill the desktop?&lt;br&gt;
+33:00 - The Synergy Between &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt; and WebAssembly&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.mozilla.org/&#34;&gt;Mozilla&lt;/a&gt;&lt;br&gt;
+40:38 - Getting Started with WebAssembly, Additional Resources, and Advice&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://twitter.com/search?q=%23webassembly&amp;amp;src=typd&#34;&gt;Twitter: #WebAssembly&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.packtpub.com/web-development/learn-webassembly&#34;&gt;&lt;em&gt;Learn WebAssembly&lt;/em&gt; | PACKT Books&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://pragprog.com/book/khrust/programming-webassembly-with-rust&#34;&gt;&lt;em&gt;The Pragmatic Programmer: Programming WebAssembly with Rust&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.google.com/search?q=lin+clark+webassembly&amp;amp;oq=lin+clark+web&amp;amp;aqs=chrome.0.0j69i57j0.4785j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&#34;&gt;“Lin Clark WebAssembly” Google Search&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://twitter.com/WasmWeekly&#34;&gt;@WasmWeekly&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 6 - Modular Monoliths with Simon Brown</title>
+      <link>https://softwarearchitecturerad.io/2017/10/31/episode-6-modular-monoliths-with-simon-brown/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2017/10/31/episode-6-modular-monoliths-with-simon-brown/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349432809&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-006-modular-monoliths-with-simon-brown&#34; title=&#34;Episode @006: Modular Monoliths with Simon Brown&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode @006: Modular Monoliths with Simon Brown&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Simon Brown: &lt;a href=&#34;http://simonbrown.je/&#34;&gt;simonbrown.je&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/simonbrown&#34;&gt;@simonbrown&lt;/a&gt; | &lt;em&gt;&lt;a href=&#34;https://leanpub.com/b/software-architecture&#34;&gt;Software Architecture for Developers&lt;/a&gt;&lt;/em&gt; | Simon blogs at &lt;a href=&#34;http://www.codingthearchitecture.com&#34;&gt;Coding the Architecture&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by &lt;a href=&#34;https://pivotal.io/&#34;&gt;Pivotal&lt;/a&gt; and &lt;a href=&#34;https://www.thoughtworks.com/&#34;&gt;ThoughtWorks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;02:13 - Simon’s Background and Career Path Thus Far&lt;br&gt;
+04:20 - &lt;a href=&#34;https://www.structurizr.com/&#34;&gt;Structurizr&lt;/a&gt; and Software Tooling&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.structurizr.com/help/c4&#34;&gt;The C4 Software Architecture Model&lt;/a&gt;&lt;br&gt;
+08:44 - Architecture Concepts in Programming Languages and an Architecturally Evident Coding Style&lt;br&gt;
+12:24 - Organization of Code and Software Systems; Microservices&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;http://moosetechnology.org/&#34;&gt;The Moose Technology Platform&lt;/a&gt;&lt;br&gt;
+23:32 - Lack of Design Thinking&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html&#34;&gt;Distributed Big Balls of Mud&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kbKxmEeuvc4&#34;&gt;Simon&#39;s Modular Monoliths @ Devoxx Belgium 2016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by &lt;a href=&#34;https://conferences.oreilly.com/software-architecture/&#34;&gt;The O’Reilly Software Architecture Conference&lt;/a&gt; and &lt;a href=&#34;https://archconf.com/conference/clearwater/2017/12/home&#34;&gt;ArchConf 2017&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;29:08 - &lt;a href=&#34;https://en.wikipedia.org/wiki/Cargo_cult_programming&#34;&gt;Cargo Culting Ideas&lt;/a&gt; and Testing Strategies&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://martinfowler.com/bliki/PresentationDomainDataLayering.html&#34;&gt;Martin Fowler’s PresentationDomainDataLayering&lt;/a&gt;&lt;br&gt;
+39:36 - Problems with Terminology&lt;br&gt;
+44:37 - Tooling “for the right thing”&lt;br&gt;
+52:59 - Advice for an Aspiring Software Architect&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 5 - Evolutionary Architecture with Neal Ford</title>
+      <link>https://softwarearchitecturerad.io/2017/10/04/episode-5-evolutionary-architecture-with-neal-ford/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2017/10/04/episode-5-evolutionary-architecture-with-neal-ford/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345234302&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-005-evolutionary-architecture-with-neal-ford&#34; title=&#34;Episode @005: Evolutionary Architecture with Neal Ford&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode @005: Evolutionary Architecture with Neal Ford&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Neal Ford: &lt;a href=&#34;http://twitter.com/neal4d&#34;&gt;@neal4d&lt;/a&gt; | &lt;a href=&#34;http://nealford.com/&#34;&gt;nealford.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by &lt;a href=&#34;https://pivotal.io/&#34;&gt;Pivotal&lt;/a&gt; and &lt;a href=&#34;https://archconf.com/conference/clearwater/2017/12/home&#34;&gt;ArchConf 2017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Neal&#39;s new book, &lt;em&gt;Building Evolutionary Architectures&lt;/em&gt;, was &lt;a href=&#34;https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/&#34;&gt;just released&lt;/a&gt; in print and eBook formats.&lt;/p&gt;
+&lt;p&gt;01:36 - Neal’s Background and Career Path Thus Far&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Clipper_(programming_language)&#34;&gt;Clipper Development&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Delphi_(programming_language)&#34;&gt;Delphi&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;Bulletin Board Systems (BBSs)&lt;/a&gt;&lt;br&gt;
+11:52 - &lt;a href=&#34;http://evolutionaryarchitecture.com/&#34;&gt;Evolutionary Architecture&lt;/a&gt; and Evolvability&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Neal and Rebecca Parsons on &lt;a href=&#34;https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture&#34;&gt;Microservices as an Evolutionary Architecture&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Neal’s Evolutionary Architecture &lt;a href=&#34;https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/&#34;&gt;Podcast Episode&lt;/a&gt; on Software Engineering Daily&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Neal and Rebecca Parsons &lt;a href=&#34;https://soundcloud.com/thoughtworks/evolutionary-architecture-with-rebecca-parsons-and-neal-ford&#34;&gt;Discuss Evolutionary Architecture on the Thoughtworks Tech Leaders Podcast&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Neal’s &lt;a href=&#34;https://www.youtube.com/watch?v=SzSZpZI02Jg&#34;&gt;Webinar&lt;/a&gt; on Evolutionary Architectures&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt; - Dynamic Equilibrium&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.amazon.com/Arrival-Fittest-How-Nature-Innovates/dp/1617230219&#34;&gt;&lt;em&gt;Arrival of the Fittest: How Nature Innovates&lt;/em&gt;&lt;/a&gt; by Andreas Wagner&lt;br&gt;
+26:56 - Fitness Functions; Ensuring Resiliency&lt;br&gt;
+31:19 - Microservice Architecture and Complexity&lt;br&gt;
+40:57 - Data Ownership: Who owns customer? Logical Cohesion&lt;br&gt;
+50:44 - -ilities: Tradeoffs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 4 - The New Normal with Mike Nygard</title>
+      <link>https://softwarearchitecturerad.io/2017/09/06/episode-4-the-new-normal-with-mike-nygard/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2017/09/06/episode-4-the-new-normal-with-mike-nygard/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/341216944&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-004-the-new-normal-with-michael-nygard&#34; title=&#34;Episode @004: The New Normal with Michael Nygard&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode @004: The New Normal with Michael Nygard&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Michael Nygard: &lt;a href=&#34;https://twitter.com/mtnygard&#34;&gt;@mtnygard&lt;/a&gt; | &lt;a href=&#34;http://www.michaelnygard.com/&#34;&gt;Wide Awake Developers (Mike’s Blog)&lt;/a&gt; | &lt;a href=&#34;https://cognitect.com/&#34;&gt;The Cognitect Blog&lt;/a&gt; | &lt;em&gt;&lt;a href=&#34;https://pragprog.com/book/mnee/release-it&#34;&gt;Release It! Design and Deploy Production-Ready Software&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This episode is sponsored by &lt;a href=&#34;https://pivotal.io/&#34;&gt;Pivotal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;01:42 - Mike’s Background and Career Path Thus Far&lt;br&gt;
+02:59 - Complex Systems&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.complexityexplorer.org/&#34;&gt;The Complexity Explorer&lt;/a&gt;&lt;br&gt;
+06:22 - Continuous Partial Failure and Looking at Microservices&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Mike’s &lt;a href=&#34;http://blog.cognitect.com/blog/?tag=NewNormal+Series&#34;&gt;New Normal Blog Series&lt;/a&gt;&lt;br&gt;
+11:23 - “Agile”: Why?&lt;br&gt;
+14:03 - Antifragility&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Blog Post: &lt;a href=&#34;http://blog.cognitect.com/blog/2016/2/18/the-new-normal-from-resilient-to-antifragile&#34;&gt;From Resilient to Antifragile&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Nassim Taleb’s &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Antifragile&#34;&gt;Antifragile&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129&#34;&gt;&lt;em&gt;Normal Accidents: Living with High-Risk Technologies&lt;/em&gt;&lt;/a&gt; by Charles Perrow&lt;br&gt;
+20:18 - Evolutionary Design&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Blog Post: &lt;a href=&#34;http://blog.cognitect.com/blog/2016/3/31/the-new-normal-the-art-of-war-maneuverability-and-microservices&#34;&gt;The Art of War, Maneuverability, and Microservices&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Sun Tzu’s &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Art_of_War&#34;&gt;The Art of War&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Matt’s &lt;a href=&#34;https://www.youtube.com/watch?v=GKQwzAVud60&#34;&gt;Antifragile Architecture&lt;/a&gt; Talk&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;http://nealford.com/downloads/Evolutionary_Architecture_Keynote_by_Neal_Ford.pdf&#34;&gt;&lt;em&gt;Evolutionary Architecture&lt;/em&gt;&lt;/a&gt; by Neal Ford, Rebecca Parsons, and Pat Kua&lt;br&gt;
+29:05 - Redundancy and &lt;a href=&#34;https://en.wikipedia.org/wiki/Don%27t_repeat_yourself&#34;&gt;DRY&lt;/a&gt; (Don’t Repeat Yourself)&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it&#34;&gt;YAGNI&lt;/a&gt; (You Aren’t Gonna Need It)&lt;br&gt;
+37:11 - What services should I actually have?&lt;br&gt;
+41:00 - Contracts Between Services&lt;br&gt;
+48:29 - Advice for Someone Getting Started as an Architect:&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+Ward Cunningham’s &lt;a href=&#34;http://wiki.c2.com/?WardCunningham&#34;&gt;c2 Wiki&lt;/a&gt;&lt;br&gt;
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
+&lt;a href=&#34;https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&amp;amp;field-keywords=Pattern-Oriented+Software+Architecture&#34;&gt;&lt;em&gt;The Pattern Oriented System Architecture Series&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 3 - Mark Richards on the Evolution of Software Architecture</title>
+      <link>https://softwarearchitecturerad.io/2017/01/25/episode-3-mark-richards-on-the-evolution-of-software-architecture/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2017/01/25/episode-3-mark-richards-on-the-evolution-of-software-architecture/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303774983&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-3-mark-richards-on-the-evolution-of-software-architecture&#34; title=&#34;Episode 3 - Mark Richards on the Evolution of Software Architecture&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode 3 - Mark Richards on the Evolution of Software Architecture&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;My guest today is my good friend &lt;a href=&#34;http://wmrichards.com/&#34;&gt;Mark Richards&lt;/a&gt;. Mark is an independent hands-on software architect, with 20 of his 30 years of experience in the industry playing some type of architecture role on a myriad of different software projects. He is the author of several books including &lt;em&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596522056.do&#34;&gt;Java Message Service, 2nd Edition&lt;/a&gt;&lt;/em&gt;, and is featured in the book &lt;em&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596522704.do&#34;&gt;97 Things Every Software Architect Should Know&lt;/a&gt;&lt;/em&gt;. In addition to that he is a frequent speaker on the conference circuit (which is how we met), and gives various extremely popular software architecture trainings around the world.&lt;/p&gt;
+&lt;p&gt;In this episode we discuss his keynote from the &lt;a href=&#34;https://conferences.oreilly.com/software-architecture/engineering-business-eu&#34;&gt;O&#39;Reilly Software Architecture Conference in London&lt;/a&gt;, which took place in October 2016.&lt;/p&gt;
+&lt;p&gt;After Mark provides us with some interesting aspects of his background (he started his career as an astronomer!), we start by discussing the horizontal and vertical aspects of the evolution of software architecture, and how each move along one axis can drive changes in the opposite axis, as depicted in Mark’s keynote slide:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://softwarearchitecturerad.io/images/evolution_of_sa_slide.jpg&#34; alt=&#34;Mark&#39;s keynote slide depicting the horizontal and vertical elements of the evolution of software architectures.&#34;&gt;
+&lt;em&gt;Mark&#39;s keynote slide depicting the horizontal and vertical elements of the evolution of software architectures.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some of these drivers are technical - especially often hardware taking some time to catch up with the needs of newer ideas and software - but other times these changes are driven by changes in the business. Mark relates a story that I tell in my book, &lt;em&gt;&lt;a href=&#34;http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp&#34;&gt;Migrating to Cloud-Native Application Architectures&lt;/a&gt;&lt;/em&gt;, about the transitions that have taken place in the last twenty years in how we perform the simple task of checking our bank account balance. These transitions have caused banking systems to transition from what Mark calls controlled access, such as visiting a human teller in a bank branch, to uncontrolled access, such as using a mobile banking application. These changes in access have caused a radical increase in the scale demands place on these same systems. Most legacy systems were never built to handle this kind of demand, and this has driven us toward new types of architectures that scale much better.&lt;/p&gt;
+&lt;p&gt;The conversation then transitions into coverage of three specific factors that drive architectural decision making;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;agility:&lt;/strong&gt; having the characteristics of speed and coordination; the ability to react quickly and appropriately to change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;velocity:&lt;/strong&gt; the speed of something in a given direction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;modularity:&lt;/strong&gt; having independent parts that can be connected or combined in different ways.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mark describes these factors as “ingredients that go into an evolutionary cauldron.” Many companies are trying to embrace agility, both from a technology and a business point of view. And this “agility in isolation” is what causes many businesses to fail, as they spin rapidly in circles and never go in the right direction. This is where the importance of velocity comes into play. Agility combined with velocity allows us to move quickly, respond to change, and move in the right direction. But these must also be combined with modularity, which itself has both a technical and a business aspect.&lt;/p&gt;
+&lt;p&gt;As we discuss business modularity, it becomes time for the requisite Conway’s Law reference. But we quickly transition back to technical modularity, and the concepts of loose coupling and high cohesion. We’ve talked about these things for many years, but it very often doesn’t lead to significant improvements in actual project architectures. Why? Mark sees the problem is very often inherent in a lack of drivers. Modularity comes with a definite price. It is very often driven by the desire for agility - it’s hard to achieve agility with a monolith. But the more modular our architecture becomes, the less reliable and available it becomes as we introduce distribution. Coming back to the idea of drivers, Mark brings up Martin Fowler’s blog entitled “Sacrifical Architecture,” or this concept of throwing away portions of our architecture that no longer support the required business functionality, something that we can only accomplish with a truly modular architecture. We see these same drivers inherent in the move to microservices, which result in the same costs.&lt;/p&gt;
+&lt;p&gt;Volatility often becomes one of the key drivers moving us toward modularity and microservices. Many of the aspects of our system - such as admin or reporting functionality - simply aren’t that volatile. And so we can make the mistake of moving these things to microservices when there isn’t any payoff. But it always comes with a cost (what I like to call “the distributed systems tax”).&lt;/p&gt;
+&lt;p&gt;And so we turn the discussion to the million dollar question: “What microservices should I have?” Where should I draw the boundaries? I relate the analogy of how we described velocity in physics as a vector, where the magnitude of the velocity was indicated by the length of the vector, and the direction of the velocity was indicated by the direction of the arrow. I compare these to the discussion of independent value streams that we find in the DevOps conversation. How many velocity vectors should you have? Well, how many different value streams do you have that move in different directions and at different speeds? These different velocity vectors can then be aligned with different deployable artifacts with independent lifecycles (i.e. microservices), thus preventing the tangling of these vectors together. Mark sees this as the perfect blending of agility, velocity, and modularity.&lt;/p&gt;
+&lt;p&gt;Mark transitions the conversation back to the three ingredients and how they provide us with a high degree of deployability, testability, and scalability. These lead us toward a definition of competitive advantage. But it’s about more than being able to push out product quickly. It’s also about having a feedback loop to which we can react quickly and change appropriately.&lt;/p&gt;
+&lt;p&gt;We start to wind down the conversation by discussing “What’s Next?” As Mark described three ingredients in the evolutionary cauldron, he also described three characteristics of the next evolutionary stage in software architectures:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A tighter integration of data and functionality&lt;/li&gt;
+&lt;li&gt;Self-healing systems&lt;/li&gt;
+&lt;li&gt;Architectures that constantly evolve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Streaming architectures are one step in the direction of a tighter integration of data and functionality, but Mark sees a greater paradigm shift in not seeing data as somehow a separate entity in the architecture, but part of the greater whole.&lt;/p&gt;
+&lt;p&gt;Reactive architectures are currently one of Mark’s key passions. Mark describes the application of patterns that allow systems to grow without any human intervention. Systems that can handle any spikes in load or transaction volume. Systems that can self heal, almost like biological systems. Patterns that include the Thread Delegate pattern and Workflow Event pattern.&lt;/p&gt;
+&lt;p&gt;The final item is really a call to action, to discontinue the fool’s errand of gazing into crystal balls, trying to figure out what our architectures will look like. It’s impossible to do that kind of predictive analysis anymore. But instead we leverage these first two aspects to create architectures which truly can evolve over time.&lt;/p&gt;
+&lt;p&gt;Mark closes with an exhortation to aspiring software architects to focus on improving their people skills. He sees this as not only the most important skill set for the software architect, but also the most difficult one to learn.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.com/ideas/the-evolution-of-software-architecture&#34;&gt;Mark&#39;s Keynote Highlight (freely available)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491958490/video283150.html&#34;&gt;Mark&#39;s Full Keynote (requires Safari account)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Matt’s &lt;em&gt;&lt;a href=&#34;https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491958490/video283150.html&#34;&gt;Migrating to Cloud-Native Application Architectures&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.melconway.com/Home/Conways_Law.html&#34;&gt;Conway&#39;s Law&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Martin Fowler’s &lt;a href=&#34;https://martinfowler.com/bliki/SacrificialArchitecture.html&#34;&gt;Sacrificial Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Eric Evans&amp;rsquo; &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215&#34;&gt;Domain Driven Design&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BoundedContext.html&#34;&gt;Bounded Contexts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Velocity&#34;&gt;Velocity Vectors in Physics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://itrevolution.com/devops-handbook&#34;&gt;The DevOps Handbook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Find Mark’s &lt;a href=&#34;https://nofluffjuststuff.com/n/training/schedule&#34;&gt;Software and Enterprise Architecture training courses&lt;/a&gt; offered through No Fluff Just Stuff&lt;/li&gt;
+&lt;li&gt;Mark’s &lt;a href=&#34;http://wmrichards.com/published-articles.html&#34;&gt;Books, Reports, Articles, and Instructional Videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 2 - Tudor Girba on Solving Problems Without Reading Code</title>
+      <link>https://softwarearchitecturerad.io/2017/01/11/episode-2-tudor-girba-on-solving-problems-without-reading-code/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2017/01/11/episode-2-tudor-girba-on-solving-problems-without-reading-code/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301343971&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-2-tudor-girba-on-solving-problems-without-reading-code&#34; title=&#34;Episode 2 - Tudor Girba on Solving Problems Without Reading Code&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode 2 - Tudor Girba on Solving Problems Without Reading Code&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;My guest for this episode is &lt;a href=&#34;http://www.tudorgirba.com/&#34;&gt;Tudor Girba&lt;/a&gt;. Tudor builds tools and techniques for improving the productivity and happiness of software teams. He currently acts as a software environmentalist at &lt;a href=&#34;http://feenk.com/&#34;&gt;feenk gmbh&lt;/a&gt;, a coaching and consulting company that he co-founded.&lt;/p&gt;
+&lt;p&gt;In 2014 he received the &lt;a href=&#34;http://www.aito.org/Dahl-Nygaard/2014.html&#34;&gt;Dahl-Nygaard Junior Award&lt;/a&gt; for his work on modeling and visualization of evolution and interplay of large numbers of objects.&lt;/p&gt;
+&lt;p&gt;He leads the work on the Moose platform for software and data analysis, he initiated the work on the Glamorous Toolkit project for reinventing the software development environments, and he is a board member of the Pharo programming language and environment. He also authored the humane assessment method for making software engineering decisions, and the demo-driven approach to embedding design thinking in software development.&lt;/p&gt;
+&lt;p&gt;We start out by discussing why simply reading code to solve problems is actually utilizing what Tudor calls an “inhumane assessment” method, similar to how we might say the same about a person plowing a field with their bare hands. When we write code, we’re very often trying to help individuals make decisions by hiding the raw data from them, instead presenting them with a usefully summarized view of those same data. But what do we do when trying to make decisions about our code? We go straight to the data. We read code.&lt;/p&gt;
+&lt;p&gt;We then get into a conversation about the types of tools that we can build to improve our decision making as developers, tools that Tudor says we should be able to construct in minutes instead of hours or days. Most of the problems we have are search problems. What do we also search quite frequently? A database. How do we do that? We write a query - a query that defines with rich semantics how we want the result to appear. So why don’t we have a query language for code? Why doesn’t the IDE have a query box? The same can be said for architectural problems. And queries are the types of tools we should be able to construct in minutes. We then combine these result sets with powerful visualization tools that allow us to see how our results are clustered together.&lt;/p&gt;
+&lt;p&gt;The power comes in how cheap these queries are to write, because you’re no longer building with a view toward reuse. Tudor states that “most developers throw away many queries every day,” but that’s only because they are so cheap to write. If your decision making tools for code and architecture had the same economics (relatively cheap compared to their power), then the entire game is changed. And this is the type of environment that Moose strives to create.&lt;/p&gt;
+&lt;p&gt;After we spend some time talking about how the Moose environment works, we transition into a discussion of detangling monoliths, looking for natural seams in the code. While we’d like to simply just determine what seams the business model should have and decompose from there, very often the code is structured in such a way that the business seams and the natural seams don’t overlap. Sometimes this can stem from a team not having a strong understanding of how they want to model the business. This problems worsens when the business itself doesn’t understand how to model the business.&lt;/p&gt;
+&lt;p&gt;The conversation then pivots into a discussion of the common motivations behind moving to microservices, and many people say they are seeking modularity. Tudor’s assertion is that they’re really looking for constraints to help them maintain modularity, and that the distributed system model is a high price to pay for those constraints. But if we can write a query of our system’s architecture, we can turn that same query into a test, and that test can become the architectural constraint. And this is exactly the type of tool that Moose provides, in a DSL for architectural constraints.&lt;/p&gt;
+&lt;p&gt;We close with a conversation about agile architecture. As it turns out, there’s not one architect and several developers, but several architects. And architectural decision making is a commons-based approach. So how do we steer the architecture? And this is where human assessment comes into play, helping us to perform the assessments needed to make appropriate tradeoffs in decision making as a group of architects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Audio Notes: roughly 20 minutes into the conversation, there are a few minutes of background artifiacts that we couldn’t isolate from the recording. The same happens around 41:58 with a loud motorcycle just outside where we recorded the episode. We apologize for the poor listening experience.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://moosetechnology.org/&#34;&gt;The Moose Technology Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://themoosebook.org/&#34;&gt;The Moose Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://humane-assessment.com/&#34;&gt;Human Assessment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://humane-assessment.com/res/humane-assessment-on-cards.pdf&#34;&gt;A set of visual cards explaining the key concepts of Humane Assessment (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.humane-assessment.com/blog/emergent-nature-software-systems-slideshow/&#34;&gt;A visual slideshow and related links for how architecture cannot be controlled, but can be steered&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://humane-assessment.com/res/humane-assessment-case-studies-a4.pdf&#34;&gt;A set of case studies showing how various problems got solved. The case studies were done using the Moose analysis platform. (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.humane-assessment.com/blog/lets-talk-about-code-reading-teaser-slideshow/&#34;&gt;Engineers should build their own analysis tools and use them to perform effective assessments rather than reading code.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.humane-assessment.com/blog/moose-how-to-solve-real-problems-without-reading-code-esug-2014&#34;&gt;Using Moose to Solve Problems (Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KDHrtYGbUQ8&#34;&gt;Software Environmentalism (Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gtoolkit.org/&#34;&gt;The Glamourous Toolkit - Humane Assessment-centric IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://feenk.com/&#34;&gt;Courses on Steering Agile Architecture and Software Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/&#34;&gt;Dave Thomas interview on Software Archaeology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052&#34;&gt;Michael Feathers’ book Working Effectively with Legacy Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=359417&amp;amp;seqNum=3&#34;&gt;Michael Feathers’ article on Seams in Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 1 - Tim Berglund on Distributed Systems</title>
+      <link>https://softwarearchitecturerad.io/2016/12/19/episode-1-tim-berglund-on-distributed-systems/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://softwarearchitecturerad.io/2016/12/19/episode-1-tim-berglund-on-distributed-systems/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298646065&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;
+&lt;/iframe&gt;
+&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;
+    &lt;a href=&#34;https://soundcloud.com/swarchradio&#34; title=&#34;Software Architecture Radio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Software Architecture Radio&lt;/a&gt; · 
+    &lt;a href=&#34;https://soundcloud.com/swarchradio/episode-1-tim-berglund-on-distributed-systems&#34; title=&#34;Episode 1 - Tim Berglund on Distributed Systems&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Episode 1 - Tim Berglund on Distributed Systems&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;My guest for this show is &lt;a href=&#34;http://timberglund.com/&#34;&gt;Tim Berglund&lt;/a&gt;, Vice President of Developer Education at &lt;a href=&#34;https://www.datastax.com/&#34;&gt;DataStax&lt;/a&gt;. We start by discussing the unique challenges of distributed systems for architects, eventually landing on the most important piece of distributed systems advice a software architect can receive. We then dive into types of distributed systems and how to build up one&#39;s skill set in this important area.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920039518.do&#34;&gt;Tim&#39;s Distributed Systems Course at O&#39;Reilly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cassandra.apache.org/&#34;&gt;Apache Cassandra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datastax.com/products/datastax-enterprise&#34;&gt;DataStax Enterprise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://timberglund.com/blog/2012/08/03/the-maven/&#34;&gt;The Maven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://timberglund.com/blog/2016/05/22/the-rime-of-the-product-manager/&#34;&gt;The Rime of the Project Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/built-to-adapt/on-orchestrated-microservices-5c8bd787ead4#.b6t4yyes6&#34;&gt;Matt&#39;s Medium Post about Orchestrated Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://flink.apache.org/&#34;&gt;Apache Flink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html&#34;&gt;HDFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MapReduce&#34;&gt;MapReduce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kafka.apache.org/&#34;&gt;Apache Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zookeeper.apache.org/&#34;&gt;Apache Zookeeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://spark.apache.org/&#34;&gt;Apache Spark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
